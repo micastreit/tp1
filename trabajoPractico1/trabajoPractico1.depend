@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618261786 source:c:\users\g5\desktop\code block\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionMatematica.h"
+	"menu.h"
+
+1617420043 c:\users\g5\desktop\code block\trabajopractico1\funcionesmatematicas.h
+
+1618265439 c:\users\g5\desktop\code block\trabajopractico1\funcionmatematica.h
+
+1618254207 c:\users\g5\desktop\code block\trabajopractico1\menu.h
+	<stdio.h>
+	<stdlib.h>
+
